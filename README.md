@@ -14,7 +14,7 @@ Enjoy exploring!
    * Click on a cell to select it and start typing Python code.
    * There are three types of cells: code, markdown, and raw.
    * Select the code cell and install the Libraries.
-3. [Install Libraries]
+3. [Install Libraries](https://docs.python.org/3/library/index.html)
    ```
    pip install numpy
    pip install pandas
@@ -23,7 +23,7 @@ Enjoy exploring!
    pip install scikit-learn
 
    ```
-4. [Install Integrated Development Environment (IDE)](PyCharm, Atom) (Optional)
+4. Install Integrated Development Environment (IDE), (PyCharm, Atom) (Optional)
 5. [Install Visual Studio Code](https://code.visualstudio.com/download)(Optional)
 
 
