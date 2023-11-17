@@ -29,5 +29,9 @@ Enjoy exploring!
 
 ### R
 
+1. [Install R](https://cran.r-project.org/bin/windows/base/)
+2. [Install RStudio](https://posit.co/download/rstudio-desktop/), IDE for working with R
+3. [Install R Packages](https://www.dataquest.io/blog/install-package-r/)
+
 
 
