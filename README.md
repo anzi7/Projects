@@ -11,4 +11,14 @@ Enjoy exploring!
 1. [Install Python](https://www.python.org/downloads/)
 2. [Install Anaconda](https://www.anaconda.com/download)
    * Anaconda comes with Jupyter Notebooks.
+3. [Install Visual Studio Code](https://code.visualstudio.com/download)(Optional)
+4. [Install Libraries]
+   ```
+   pip install numpy
+   pip install pandas
+   pip install matplotlib
+   pip install seaborn
+   pip install scikit-learn
+
+   ```
 
