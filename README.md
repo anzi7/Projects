@@ -34,7 +34,12 @@ Enjoy exploring!
 3. [Install R Packages](https://www.dataquest.io/blog/install-package-r/)
 
 
-💡 For more detailed information on [data science and its tools,]() please visit this page.
+💡 For more detailed information on [data science and its tools](https://github.com/anzi7/data-science), please visit this page.
+
+
+### Data Analysis and Visualisation
+* Python
+  1. 
 
 
 
