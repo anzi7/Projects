@@ -11,8 +11,10 @@ Enjoy exploring!
 1. [Install Python](https://www.python.org/downloads/)
 2. [Install Anaconda](https://www.anaconda.com/download)
    * Anaconda comes with Jupyter Notebooks.
-3. [Install Visual Studio Code](https://code.visualstudio.com/download)(Optional)
-4. [Install Libraries]
+   * Click on a cell to select it and start typing Python code.
+   * There are three types of cells: code, markdown, and raw.
+   * Select the code cell and install the Libraries.
+3. [Install Libraries]
    ```
    pip install numpy
    pip install pandas
@@ -21,4 +23,11 @@ Enjoy exploring!
    pip install scikit-learn
 
    ```
+4. [Install Integrated Development Environment (IDE)](PyCharm, Atom) (Optional)
+5. [Install Visual Studio Code](https://code.visualstudio.com/download)(Optional)
+
+
+### R
+
+
 
