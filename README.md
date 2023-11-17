@@ -38,8 +38,7 @@ Enjoy exploring!
 
 
 ### Data Analysis and Visualisation
-* Python
-  1. 
+* [Covid-19 Data Analysis in Python:](https://github.com/anzi7/data-science-projects/tree/main/covid%2019%20data%20analysis) USing Python libraries to collect, process, analyze, and visualize global COVID-19 data to identify patterns, understand trends, and guide responses to the pandemic.
 
 
 
