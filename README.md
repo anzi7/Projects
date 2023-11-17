@@ -34,7 +34,7 @@ Enjoy exploring!
 3. [Install R Packages](https://www.dataquest.io/blog/install-package-r/)
 
 
-[!alt text](https://w7.pngwing.com/pngs/263/329/png-transparent-incandescent-light-bulb-ico-icon-idea-bulb-electronics-text-light-thumbnail.png)
+![alt text](https://w7.pngwing.com/pngs/263/329/png-transparent-incandescent-light-bulb-ico-icon-idea-bulb-electronics-text-light-thumbnail.png)
 
 
 
