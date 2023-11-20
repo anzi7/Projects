@@ -41,6 +41,8 @@ Enjoy exploring!
 * [Lung Cancer Prediction:](https://github.com/anzi7/data-science-projects/tree/main/Prediction%20of%20Lung%20Cancer%20using%20ML%20models)
   Model building: Logistic Regression, Decision Tree, K Nearest Neighbor, Gaussian Naive Bayes, Multinomial Naive Bayes, Support Vector Classifier, Random Forest.
   The decision tree model has the highest accuracy of 94%.
+* [Email spam detection:](https://github.com/anzi7/data-science-projects/tree/main/Email%20spam%20detection)
+  Model building: Logistic Regression. The accuracy level of testing and training data is 96%.
 * [Covid-19 Data Analysis in Python:](https://github.com/anzi7/data-science-projects/tree/main/covid%2019%20data%20analysis) Using Python libraries to collect, process, analyze, and visualize global COVID-19 data to identify patterns, understand trends, and guide responses to the pandemic.
 * [Tracking the Pandemic:](https://github.com/anzi7/tableau-projects) Data visualization approach to analyzing COVID-19 data via Tableau.
   
